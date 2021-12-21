@@ -1,12 +1,15 @@
 # :christmas_tree: Christmas fun for the SAP Community 
 
-Santa Claus is taking a nap. He doesn't dream of a winter wonderland, but of a maze. In this maze, 3 elves and 4 Christmas tree balls have been lost. Can Santa find them all?
+Santa Claus is taking a nap. He doesn't dream of a winter wonderland, but of a maze. In this maze, 3 elves and 6 Christmas tree balls have been lost. Can Santa find them all?
+
+For the math cracks among the players: Minimizes Santa's number of steps to the smallest amount required. And please don't ask me the number, I have no idea ...
+
 
 # Game elements
 
-:green_square: wood, Santa can't go through there<br>
-:sparkle: secret wall, Santa can go through it<br>
-:black_large_square: way, Santa can go on it<br>
+:green_square: wood, Santa can't go through wood<br>
+:sparkle: secret wall, Santa can go through the secret wall<br>
+:black_large_square: path, Santa can go on it<br>
 :blue_square: water, Santa can't walk on water<br>
 :red_circle: one of the lost Christmas tree balls<br>
 :large_orange_diamond: one of the lost Christmas elves<br>
@@ -29,6 +32,6 @@ Start at one of the two entrances/exits...
 :green_square::black_large_square::green_square::black_large_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::black_large_square::green_square::black_large_square::green_square::green_square::green_square::green_square::green_square::green_square:<br>
 :green_square::black_large_square::black_large_square::black_large_square::black_large_square::blue_square::blue_square::black_large_square::black_large_square::black_large_square::black_large_square::green_square::black_large_square::green_square::blue_square::black_large_square::black_large_square::large_orange_diamond::green_square:<br>
 :green_square::black_large_square::green_square::green_square::sparkle::green_square::green_square::black_large_square::green_square::green_square::green_square::green_square::black_large_square::green_square::green_square::green_square::black_large_square::green_square::green_square:<br>
-:green_square::black_large_square::black_large_square::green_square::black_large_square::large_orange_diamond::green_square::black_large_square::green_square::blue_square::blue_square::blue_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::green_square:<br>
+:green_square::black_large_square::red_circle::green_square::black_large_square::large_orange_diamond::green_square::black_large_square::green_square::blue_square::blue_square::blue_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::green_square:<br>
 :green_square::green_square::green_square::green_square::green_square::green_square::green_square::black_large_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square::green_square:<br>
 
